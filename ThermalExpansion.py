@@ -1,5 +1,6 @@
 """
 Assignment 2 Problem 3 - Linear Expansion
+PLEASE ENSURE THAT THE INPUT FILE: 'linearexpansion.csv' IS PRESENT IN THE SAME FOLDER AS THE PYHTON FILE BEFORE EXECUTING IT
 Objectives:
 a) Make a scatter plot for length of aluminum rod vs temperature
 b) Find the best fit line for the same. Estimate Length of the rdo at 0 degree celsius and coefficient of linear expansion
